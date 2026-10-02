@@ -1,5 +1,7 @@
 # SomethingLikeGlitch
 
+https://github.com/user-attachments/assets/479ea61b-958c-4601-b587-8a2926a0f29f
+
 <details open>
 <summary><strong>日本語　▲ 🌐 Switch Language</strong></summary>
 
