@@ -1,6 +1,6 @@
 # SomethingLikeGlitch
 
-https://github.com/user-attachments/assets/b4c26cc3-97f7-49e7-b7aa-d037e2ee343f
+[![demo](preview.png)](https://github.com/user-attachments/assets/b4c26cc3-97f7-49e7-b7aa-d037e2ee343f)
 
 <details open>
 <summary><strong>日本語　▲ 🌐 Switch Language</strong></summary>
