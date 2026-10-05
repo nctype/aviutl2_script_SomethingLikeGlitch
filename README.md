@@ -73,8 +73,6 @@
 - エッジのみは透明背景向けです。不透明画像ではキャンバス端が輪郭として扱われます。髪や腕の間の透明な隙間も対象です。
 - 細い部分は全体が処理範囲に入ることがあります。エッジ幅が0の場合は効果全体を停止します。
 - キャンバスを自動拡張しません。外側へ断片を移動する場合は、素材に透明な余白を用意してください。
-- v1.0.1では間隔の意味を変更しています。旧版と同じ値でも発生タイミングが変わります。
-- 旧 `glitch_test` とは別名のため、旧プロジェクトの効果を自動では置き換えません。
 
 </details>
 
@@ -149,8 +147,6 @@
 - 仅边缘适合透明背景素材。不透明图片会以画布边缘作为轮廓，头发和手臂间的透明缝隙也会参与处理。
 - 细小部分可能整体落入处理范围。边缘宽度为0时，关闭整个效果。
 - 不自动扩展画布。需要向人物外侧移动碎块时，请为素材留出透明边距。
-- v1.0.1改变了间隔的含义，沿用旧版数值时，触发时间会变化。
-- 正式版与旧 `glitch_test` 名称不同，不会自动替换旧工程中的效果。
 
 </details>
 
@@ -225,7 +221,5 @@ Color blocks are not generated independently when tearing is disabled. RGB separ
 - Edges only is intended for transparent backgrounds. Opaque images use the canvas boundary as their outline. Transparent gaps between hair or limbs also count as edges.
 - Thin features may fall entirely within the affected area. Setting Edge width to zero disables the entire effect.
 - The canvas is not expanded automatically. Leave transparent margins if fragments need to move outward.
-- Version 1.0.1 changes the meaning of Interval. Reusing older values changes the event timing.
-- The release uses a different name from `glitch_test` and does not automatically replace effects in older projects.
 
 </details>
