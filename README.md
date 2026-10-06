@@ -2,6 +2,13 @@
 
 [![demo](preview.png)](https://github.com/user-attachments/assets/b4c26cc3-97f7-49e7-b7aa-d037e2ee343f)
 
+▲ ▼ **クリックして動画を再生**
+
+▶️ [紹介動画(ニコニコ動画)](https://www.nicovideo.jp/watch/sm46890972)
+
+▶️ [紹介動画(Twitter)](https://x.com/nyaarara/status/2107400170048819709)
+
+
 <details open>
 <summary><strong>日本語　▲ 🌐 Switch Language</strong></summary>
 
